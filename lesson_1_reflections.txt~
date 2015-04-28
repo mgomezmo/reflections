@@ -1,0 +1,10 @@
+It was pretty neat, however the results of Diff command are kind of difficult to understand
+
+It would be very difficult for me to keep different versions of a file, saving it in different locations.
+
+The pros of making a manual commit is that you can decide and also label as you wish.  However if you leave too much time you might be loosing the changes if you don't do it on time.  Or if you make it too long, it will include too much changes.  And lastly would be that making commits for anything would be also difficult to understand the history afterwards.
+
+In order to have the updates more organized is better to have a commit saving the version of the files at that time, so, when we want to go back of a version will be definitely the version of all files. 
+
+First you have to use git log to get the version that had the change that you are looking for and then you can use git diff to see the difference in all the files made comparing those 2 different versions.
+
